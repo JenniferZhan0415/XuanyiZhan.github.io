@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{NBB3:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),l=t("Bl7J"),o=t("vrFN"),r=t("3jJo");n.default=function(){return i.a.createElement(l.a,null,i.a.createElement(o.a,{title:"2020",description:"Sinolux Film Exhibition 2020",lang:"en"}),i.a.createElement(r.a,null))}}}]);
-//# sourceMappingURL=component---src-pages-exhibitions-2020-js-783dffa40ec52a4aae92.js.map

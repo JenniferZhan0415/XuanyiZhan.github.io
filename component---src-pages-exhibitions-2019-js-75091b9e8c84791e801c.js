@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{e069:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),i=t.n(a),l=t("Bl7J"),o=t("vrFN"),r=t("3jJo");n.default=function(){return i.a.createElement(l.a,null,i.a.createElement(o.a,{title:"2019",description:"Sinolux Exhibition 2019",lang:"en"}),i.a.createElement(r.a,null))}}}]);
-//# sourceMappingURL=component---src-pages-exhibitions-2019-js-75091b9e8c84791e801c.js.map
